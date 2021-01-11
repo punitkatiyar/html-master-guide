@@ -1,23 +1,22 @@
 # hypertext markup language 
 <table width="100%">
   <tr>
-    <td width="50%">
-      
->html structure
+    <td width="50%">      
+html structure
 
->html basic tag
+html basic tag
 
->html article
+html article
 
->html table
+html table
 
->html forms
+html forms
 
->html list
+html list
 
->html text formeting
+html text formeting
 
->html project 
+html project 
 
     </td>
     <td width="50%">
