@@ -1,7 +1,6 @@
 # hypertext markup language 
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
-</hr>
 <table width="100%">
   <tr>
     <td width="50%">  
