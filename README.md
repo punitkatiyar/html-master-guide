@@ -3,7 +3,7 @@
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 <table width="100%">
   <tr>
-    <td width="50%">  
+    <td>  
        <ol>
           <li>html structure</li>
           <li>html basic tag</li>
@@ -15,7 +15,7 @@
          <li>html project</li> 
       </ol>    
     </td>
-    <td width="50%">
+    <td>
     <ol>
   <li><a href="login.html">Login form template one</a></li>
   <li><a href="login1.html">Login form template Two</a></li>
@@ -23,7 +23,7 @@
   <li><a href="">Login form template</a></li>
 </ol>
     </td>
-    <td width="50%">
+    <td>
     <ol>
   <li><a href="login.html">Login form template one</a></li>
   <li><a href="login1.html">Login form template Two</a></li>
