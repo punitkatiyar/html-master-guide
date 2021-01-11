@@ -1,5 +1,7 @@
 # hypertext markup language 
-
+<table width="100%">
+  <tr>
+    <td width="50%">
 >html structure
 
 >html basic tag
@@ -15,6 +17,12 @@
 >html text formeting
 
 >html project 
+
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
 <ol>
   <li><a href="login.html">Login form template one</a></li>
   <li><a href="login1.html">Login form template Two</a></li>
