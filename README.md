@@ -1,23 +1,20 @@
 # hypertext markup language 
+<hr>
+<a href="https://punitkatiyar.github.io/">Back To Home Page</a>
+</hr>
 <table width="100%">
   <tr>
-    <td width="50%">      
-html structure
-
-html basic tag
-
-html article
-
-html table
-
-html forms
-
-html list
-
-html text formeting
-
-html project 
-
+    <td width="50%">  
+       <ol>
+          <li>html structure</li>
+          <li>html basic tag</li>
+          <li>html article</li>
+          <li>html table</li>
+          <li>html forms</li>
+          <li>html list</li>
+          <li>html text formeting</li>
+         <li>html project</li> 
+      </ol>    
     </td>
     <td width="50%">
     <ol>
@@ -26,14 +23,8 @@ html project
   <li><a href="login2.html">Login form template Three</a></li>
   <li><a href="">Login form template</a></li>
 </ol>
-
-    
-    
     </td>
   </tr>
 </table>
-
-  
-
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
