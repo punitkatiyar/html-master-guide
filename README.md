@@ -20,7 +20,7 @@
     <li>html project</li> 
 </ol>
 
-## html example
+## HTML Sample Code
 
 <ol>
   <li><a href="login.html">Login form template one</a></li>
