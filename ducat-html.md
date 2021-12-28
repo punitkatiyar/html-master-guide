@@ -1,6 +1,7 @@
 <img src="https://www.ducatindia.com/images/logo.png">
 
-# What is Markup Language
+#Model-1 2 Hrs.
+## What is Markup Language
 ## Basic Structure of HTML
 ### Document Overview
 > The Structure Tags
@@ -74,8 +75,9 @@ Hypertext Links
 Images
  Adding Images
  Adding Border to an image
-Model-3 3 Hrs.
-Tables
+# Model-3 3 Hrs.
+
+## Tables
  How to create table
  Adding Border to a Table
  Apply Formatting Features to Table
@@ -89,8 +91,8 @@ Changing the Background
  Changing the Indent of the text
  Changing the Line Spacing
  Hide a Style Sheet
-Model-4 1 Hrs.
-Creating Style Classes
+# Model-4 1 Hrs.
+## Creating Style Classes
  Div
  Span
  Frame
