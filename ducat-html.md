@@ -93,11 +93,17 @@ Changing the Background
  Hide a Style Sheet
 # Model-4 1 Hrs.
 ## Creating Style Classes
- Div
- Span
- Frame
- Layer
- Meta
- HTML Frames
- Frame
- ifram
+
+> Div
+
+> Span
+
+> Frame
+
+> Layer
+
+> Meta
+
+> HTML Frames
+
+> ifram
