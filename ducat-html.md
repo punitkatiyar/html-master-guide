@@ -32,15 +32,23 @@
  Empty elements
 
 ### Working with Forms
- Creating a Form
- Form Tag
- POST and GET Method
- Text Input, Text Area, Checkbox, Image Input and Radio
- Select Option
-  Option Group
- File Upload and Hidden Fields
- Submit Button, Reset Button
- Relation between HTML Form and PHP
+> Creating a Form
+
+>Form Tag
+
+>POST and GET Method
+
+>Text Input, Text Area, Checkbox, Image Input and Radio
+
+>Select Option
+
+>Option Group
+
+>File Upload and Hidden Fields
+
+>Submit Button, Reset Button
+
+>Relation between HTML Form and PHP
 
 ### Adding Special Characters 
 
@@ -55,26 +63,29 @@
 > Changing Background Color
 
 # Model-2 2 Hrs.
-List
+
+## List
  Ordered List
  Unordered List
  Definition List
-Attributes of List
+## Attributes of List
  Using Type attribute with Unordered list
  Using Stat attribute with Ordered List
  Some other elements
  Visual Markup
-Uniform Resource Locators
+## Uniform Resource Locators
  Types of URLs
  Absolute URLs
  Relative URLs
  Document-Relative URLs
  Server-relative URLs
-Hypertext Links
+## Hypertext Links
  Why links fail?
-Images
- Adding Images
- Adding Border to an image
+## Images
+>Adding Images
+
+>Adding Border to an image
+
 # Model-3 3 Hrs.
 
 ## Tables
