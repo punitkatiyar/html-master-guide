@@ -13,17 +13,24 @@
 
 > Meta Tags
 
-> xternal Link Tags
- HTML Tags
- HEAD Tags
- Title Tags
- Body Tags
- Displaying a web page in a web Browser
-HTML Elements
+> external Link Tags
+
+>HTML Tags
+
+>HEAD Tags
+
+>title Tags
+
+>Body Tags
+
+>Displaying a web page in a web Browser
+
+### HTML Elements
  Block level elements
  Inline elements
  Empty elements
-Working with Forms
+
+### Working with Forms
  Creating a Form
  Form Tag
  POST and GET Method
@@ -33,13 +40,20 @@ Working with Forms
  File Upload and Hidden Fields
  Submit Button, Reset Button
  Relation between HTML Form and PHP
-Adding Special Characters 
-Block Oriented Elements
- Defining Paragraphs and new Lines
- Inserting Spaces
- Perforating the Text
- Changing Background Color
-Model-2 2 Hrs.
+
+### Adding Special Characters 
+
+### Block Oriented Elements
+
+> Defining Paragraphs and new Lines
+
+>Inserting Spaces
+
+> Perforating the Text
+
+> Changing Background Color
+
+# Model-2 2 Hrs.
 List
  Ordered List
  Unordered List
