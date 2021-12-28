@@ -3,9 +3,9 @@
 # What is Markup Language
 ## Basic Structure of HTML
 ### Document Overview
- The Structure Tags
- Getting Started With HTML
- Writing the Code
+> The Structure Tags
+> Getting Started With HTML
+> Writing the Code
  Head Section
  Meta Tags
  External Link Tags
