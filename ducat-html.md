@@ -4,11 +4,16 @@
 ## Basic Structure of HTML
 ### Document Overview
 > The Structure Tags
+
 > Getting Started With HTML
+
 > Writing the Code
- Head Section
- Meta Tags
- External Link Tags
+
+> Head Section
+
+> Meta Tags
+
+> xternal Link Tags
  HTML Tags
  HEAD Tags
  Title Tags
