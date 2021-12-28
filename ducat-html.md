@@ -118,7 +118,7 @@
 
 >Merge row and columns
 
-##Introduction to style Sheets
+## Introduction to style Sheets
 
 >How style sheets work
 
