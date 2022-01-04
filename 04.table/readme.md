@@ -7,3 +7,26 @@
 
 > ### Columns represent by  &lt; td &gt; &lt; /td &gt;
 
+## Table Attribute
+
+- border
+- width
+- height
+- cellspacing
+- cellpadding
+- bg-color
+- align
+
+## TD Attribute
+
+- width
+- height
+- colspan
+- rowspan
+- bg-color
+- align
+- valign
+
+
+
+
