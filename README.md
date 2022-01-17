@@ -33,9 +33,7 @@
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 
-<style>table{width:100%;}</style>
-
-<table border="1" width="100%" bgcolor="red">
+<table border="1" width="600px" bgcolor="red">
         <tr>
             <td>HTML Module 1</td>
             <td>HTML Module 2</td>
