@@ -33,17 +33,11 @@
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
-
-<table border="1" width="100%">
+<table border="1" width="100%" bgcolor="red">
         <tr>
-            <td>Module 1</td>
-            <td>Module 1</td>
-            <td>Module 1</td>
+            <td>HTML Module 1</td>
+            <td>HTML Module 2</td>
+            <td>HTML Module 3</td>
         </tr>
         <tr>
             <td>Module 1</td>
