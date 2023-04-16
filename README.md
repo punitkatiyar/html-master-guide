@@ -1,8 +1,10 @@
 # Hypertext Markup Language
 
-<hr>
+
 <a href="https://punitkatiyar.github.io/">Home</a>
+
 <hr>
+
 <ol>
     <li>html structure</li>
     <li>html basic tag</li>
