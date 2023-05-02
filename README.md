@@ -1,6 +1,6 @@
 # Hypertext Markup Language
 
-### HTML And XML For Development Module Based Training Guide 💡 hypertext markup language ( extension : .html or .htm ) . it can contain the data in the form of tag and tag addition property can be added using attribute.
+**HTML And XML For Development Module Based Training Guide 💡 hypertext markup language ( extension : .html or .htm ) . it can contain the data in the form of tag and tag addition property can be added using attribute.**
 
 
 <a href="https://punitkatiyar.github.io/">Home</a>
