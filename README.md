@@ -19,7 +19,9 @@
 </html>
 ```
 
-## HTML Tag List Defination 
+## HTML Tag or Element Defination 
+
+**Elements are the building blocks of web pages. They define the structure and content of a webpage**
 
 ```
 <html>: Defines the beginning and end of an HTML document.
