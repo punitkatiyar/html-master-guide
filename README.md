@@ -21,9 +21,10 @@
 
 ## HTML Tag List Defination 
 
-> **<html>:** Defines the beginning and end of an HTML document.
-> **<head>:** Contains meta information about the document, such as the title, links to stylesheets and scripts, and other metadata.
-> **<body>:** Contains the visible content of the webpage.
+```
+<html>: Defines the beginning and end of an HTML document.
+<head>: Contains meta information about the document, such as the title, links to stylesheets and scripts, and other metadata.
+<body>: Contains the visible content of the webpage.
 <h1> to <h6>: Headings that define the importance of a section of content.
 <p>: Defines a paragraph of text.
 <a>: Creates a hyperlink to another webpage or a location within the same page.
