@@ -42,5 +42,9 @@
 
 
 ## Behaviour of Tag
+    
+> Inline Element
+    
+> block Elememt    
 
 
