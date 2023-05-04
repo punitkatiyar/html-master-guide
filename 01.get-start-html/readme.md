@@ -1,6 +1,6 @@
-# html5 Structure For the project
+# HTML Structure For The Web Application
 
-<pre>
+```
 < !DOCTYPE html>
 < html lang="en">
 < head>
@@ -17,4 +17,4 @@
     
 < /body>
 < /html>   
-</pre>
+```
