@@ -15,3 +15,11 @@
 # Paragraph Tag
 
 **the < p > element is used to define a paragraph of text. It represents a block of text or content that is typically separated from adjacent paragraphs by vertical spacing**
+
+```
+<p>the quick brown fox jumped over the lazy dog.</p>
+<p>the quick brown fox jumped over the lazy dog.</p>
+<p>the quick brown fox jumped over the lazy dog.</p>
+<p>the quick brown fox jumped over the lazy dog.</p>
+<p>the quick brown fox jumped over the lazy dog.</p>
+```
