@@ -14,4 +14,4 @@
 
 # Paragraph Tag
 
-***the < p > element is used to define a paragraph of text. It represents a block of text or content that is typically separated from adjacent paragraphs by vertical spacing*
+**the < p > element is used to define a paragraph of text. It represents a block of text or content that is typically separated from adjacent paragraphs by vertical spacing**
