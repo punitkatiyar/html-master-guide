@@ -1,6 +1,6 @@
 # HTML Heading Tag
 
-** heading tags are used to define the headings or titles of sections on a web page. They provide a way to structure and organize content, indicating the hierarchy and importance of different sections.**
+**heading tags are used to define the headings or titles of sections on a web page. They provide a way to structure and organize content, indicating the hierarchy and importance of different sections.**
 
 ```
 <h1>This is HTML heading one</h1>
