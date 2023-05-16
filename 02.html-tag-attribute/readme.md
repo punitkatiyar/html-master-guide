@@ -11,3 +11,7 @@
 <h6>This is HTML heading six</h6>
 <h7>This is not a heading . its default paragraph.</h7>
 ```
+
+# Paragraph Tag
+
+***the < p > element is used to define a paragraph of text. It represents a block of text or content that is typically separated from adjacent paragraphs by vertical spacing*
