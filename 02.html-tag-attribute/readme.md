@@ -30,19 +30,19 @@
 
 ## Image Attribute
 
-> src=""
+> ### src=""
 
-> alt=""
+> ### alt=""
 
-> width=""
+> ### width=""
 
-> height=""
+> ### height=""
 
-> title=""
+> ### title=""
 
-> loading="lazy"
+> ### loading="lazy"
 
-> style | class | id
+> ### style | class | id
 
 ```
 <img src="techunit.jpg" alt="Tech Punit">
