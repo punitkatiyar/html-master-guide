@@ -23,3 +23,30 @@
 <p>the quick brown fox jumped over the lazy dog.</p>
 <p>the quick brown fox jumped over the lazy dog.</p>
 ```
+
+# Image Tag
+
+**The < img > tag in HTML has several attributes that allow you to control the source, appearance, and behavior of an image on a web page. Here are some commonly used attributes with their descriptions**
+
+## Image Attribute
+
+> src=""
+
+> alt=""
+
+> width=""
+
+> height=""
+
+> title=""
+
+> loading="lazy"
+
+> style | class | id
+
+```
+<img src="techunit.jpg" alt="Tech Punit">
+```
+
+<hr>
+
