@@ -48,7 +48,7 @@
 <img src="techunit.jpg" alt="Tech Punit">
 ```
 
-<img src="./techunit.jpeg" alt="Tech Punit">
+<img src="https://github.com/punitkatiyar/html-master-guide/blob/master/02.html-tag-attribute/techpunit.jpeg" alt="Tech Punit">
 
 <hr>
 
