@@ -7,6 +7,11 @@
 
 > ### Columns represent by  &lt; td &gt; &lt; /td &gt;
 
+> ### head represent by  &lt; thead &gt; &lt; /thead &gt;
+
+> ### body represent by  &lt; tbody &gt; &lt; /tbody &gt;
+
+
 ## Table Attribute
 
 - border
