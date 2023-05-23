@@ -48,5 +48,7 @@
 <img src="techunit.jpg" alt="Tech Punit">
 ```
 
+<img src="techunit.jpeg" alt="Tech Punit">
+
 <hr>
 
