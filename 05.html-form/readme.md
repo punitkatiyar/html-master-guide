@@ -30,19 +30,7 @@
 
 
 
-# input Tag
-
-> type 
-
-> name
-
-> value
-
-> placeholder
-
-> required
-
-> 
+# input Tag Example
 
 ```
 <input type="text">
