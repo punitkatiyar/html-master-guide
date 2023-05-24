@@ -6,8 +6,14 @@
 ## Form Tag 
 
 ```
-<form></form> 
+<form method="post" action="page-name">
+
+</form> 
 ```
+
+<hr>
+
+
 
 
 # input Tag
