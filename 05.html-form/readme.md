@@ -25,7 +25,7 @@
 
 ### [ placeholder ] : Provides a hint or example text that is displayed in the input field before the user enters any value.**
 
-### required: Specifies that the input field is required and must be filled in before the form can be submitted.
+### [ required ] : Specifies that the input field is required and must be filled in before the form can be submitted.
 
 
 
