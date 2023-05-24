@@ -17,7 +17,7 @@
 
 **the < input > tag is used to create various types of form controls or input fields that allow users to enter data. The < input > tag is a self-closing tag, meaning it does not require a closing tag. Here are some commonly used attributes with the < input > tag:**
 
-- **type: Specifies the type of input control to be created. Some common values for the type attribute are:**
+### **type: Specifies the type of input control to be created. Some common values for the type attribute are:**
 
 > text: Creates a single-line text input field.
 
