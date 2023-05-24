@@ -31,13 +31,13 @@
 
 > file: Creates a file upload control.
 
-- ## name: Specifies the name of the input field. The name is used to identify the input field when the form is submitted.
+-  **name: Specifies the name of the input field. The name is used to identify the input field when the form is submitted.**
 
-- ## value: Sets the initial value of the input field. This attribute is used to pre-fill the input with a default value.
+- **value: Sets the initial value of the input field. This attribute is used to pre-fill the input with a default value.**
 
-- ## placeholder: Provides a hint or example text that is displayed in the input field before the user enters any value.
+- **placeholder: Provides a hint or example text that is displayed in the input field before the user enters any value.**
 
-- ## required: Specifies that the input field is required and must be filled in before the form can be submitted.
+- **required: Specifies that the input field is required and must be filled in before the form can be submitted.**
 
 
 
