@@ -30,7 +30,7 @@
 
 
 
-# input Tag Example
+# input Tag Type Attribute Example
 
 ```
 <input type="text">
