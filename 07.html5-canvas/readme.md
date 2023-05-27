@@ -5,3 +5,12 @@
 ```
 <canvas id="app" width="400px" height="400px"></canvas>
 ```
+## Javascript To Control Canva Module One
+
+```
+<script>
+let canvas = document.getElementById('app');
+let ctx = canvas.getContext('2d');
+</script>
+
+```
