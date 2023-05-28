@@ -25,3 +25,11 @@ ctx.stroke();
 ctx.fillStyle = 'royalblue';
 ctx.fillRect(50, 50, 200, 200);
 ```
+
+### Drow the circle
+
+```
+ctx.beginPath();
+ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.stroke();
+```
