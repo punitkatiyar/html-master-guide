@@ -33,3 +33,12 @@ ctx.beginPath();
 ctx.arc(95, 50, 40, 0, 2 * Math.PI);
 ctx.stroke();
 ```
+### Drow the text
+
+```
+ctx.font = "30px Arial";
+ctx.fillText("Hello Punit", 10, 50);
+
+ctx.font = "30px Arial";
+ctx.strokeText("Hello Punit", 10, 50);
+```
