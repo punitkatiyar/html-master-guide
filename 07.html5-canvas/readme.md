@@ -7,6 +7,15 @@
 ```
 ## Javascript To Control Canva Module One
 
+### Drow the line
+
+```
+ctx.moveTo(0, 0);
+ctx.lineTo(300, 300);
+ctx.stroke();
+```
+### Drow the Box
+
 ```
 <script>
 let canvas = document.getElementById('app');
