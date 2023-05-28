@@ -14,7 +14,7 @@ ctx.moveTo(0, 0);
 ctx.lineTo(300, 300);
 ctx.stroke();
 ```
-### Drow the Box
+### Drow the box
 
 ```
 <script>
