@@ -7,6 +7,11 @@
 ```
 ## Javascript To Control Canva Module One
 
+```
+let canvas = document.getElementById('app');
+let ctx = canvas.getContext('2d');
+```
+
 ### Drow the line
 
 ```
@@ -17,14 +22,6 @@ ctx.stroke();
 ### Drow the box
 
 ```
-<script>
-let canvas = document.getElementById('app');
-let ctx = canvas.getContext('2d');
-
 ctx.fillStyle = 'royalblue';
 ctx.fillRect(50, 50, 200, 200);
-
-
-</script>
-
 ```
