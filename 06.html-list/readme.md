@@ -25,6 +25,10 @@
 
 ## Description List
 
+> dl : defines the description
+> dt : defines the term (name)
+> dd :  describes each term in a description list
+
 
 ```
 <dl>
