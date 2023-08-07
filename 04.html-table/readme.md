@@ -22,13 +22,18 @@
 - bg-color
 - align
 
-## TD Attribute
+## td Attribute
 
 - width
 - height
 - colspan
 - rowspan
 - bg-color
+- align
+- valign
+
+## tr attribute
+
 - align
 - valign
 
