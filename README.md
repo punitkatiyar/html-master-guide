@@ -1,12 +1,8 @@
-<title>HTML Master Guide</title>
-
-# 🥇 HTML Master Guide
-
-
+# HTML Master Guide
 
 *HTML And XML For Development Module Based Training Guide 💡 hypertext markup language ( extension : .html or .htm ) . it can contain the data in the form of Tag and Tag addition property can be added using Attribute.*
 
-## HTML Structure
+##  🥇  HTML Structure
 
 ```
 <!DOCTYPE html>
