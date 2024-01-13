@@ -12,28 +12,28 @@ let canvas = document.getElementById('app');
 let ctx = canvas.getContext('2d');
 ```
 
-### Drow the line
+### Draw the line
 
 ```
 ctx.moveTo(0, 0);
 ctx.lineTo(300, 300);
 ctx.stroke();
 ```
-### Drow the box
+### Draw the box
 
 ```
 ctx.fillStyle = 'royalblue';
 ctx.fillRect(50, 50, 200, 200);
 ```
 
-### Drow the circle
+### Draw the circle
 
 ```
 ctx.beginPath();
 ctx.arc(95, 50, 40, 0, 2 * Math.PI);
 ctx.stroke();
 ```
-### Drow the text
+### Draw the text
 
 ```
 ctx.font = "30px Arial";
