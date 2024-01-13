@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        canvas {
+            /* border: 2px solid #404040; */
+            display: block;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: tomato;
+        }
+    </style>
+</head>
+
+<body>
+
+    <canvas width="500px" height="500px" id="wp"></canvas>
+    <h1>image size : 500px - 500px</h1>
+
+    <script>
+        app = document.getElementById('wp');
+        ctx = app.getContext("2d");
+
+        ctx.fillStyle = "gold";
+        ctx.fillRect(0, 0, 400, 400);
+
+
+        ctx.fillStyle = "teal";
+        ctx.fillRect(100, 100, 450, 200);
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+
+
+
+</body>
+
+</html>

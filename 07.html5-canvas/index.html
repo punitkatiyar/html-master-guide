@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        canvas {
+
+            display: block;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: tomato;
+        }
+    </style>
+</head>
+
+<body>
+
+    <canvas width="500px" height="500px" id="wp"></canvas>
+    <h1>image size : 500px - 500px</h1>
+
+    <script>
+        app = document.getElementById('wp');
+        ctx = app.getContext("2d");
+
+
+        ctx.moveTo(0, 0);
+        ctx.lineTo(500, 500);
+        ctx.stroke();
+
+        ctx.moveTo(500, 0);
+        ctx.lineTo(0, 500);
+        ctx.stroke();
+
+        ctx.moveTo(250, 0);
+        ctx.lineTo(250, 500);
+        ctx.stroke();
+
+        ctx.moveTo(0, 250);
+        ctx.lineTo(500, 250);
+        ctx.stroke();
+
+        ctx.moveTo(125, 125);
+        ctx.lineTo(375, 125);
+        ctx.stroke();
+
+        ctx.moveTo(125, 125);
+        // ctx.lineTo(125,375);
+        ctx.lineTo(125, 375);
+        ctx.stroke();
+        // start point 
+        ctx.moveTo(0, 0);
+        // end point
+        ctx.lineTo(500, 0);
+        ctx.stroke();
+
+        ctx.moveTo(250, 0);
+        ctx.lineTo(125, 125);
+        ctx.stroke();
+
+
+
+
+
+
+
+
+
+
+    </script>
+
+
+
+</body>
+
+</html>
