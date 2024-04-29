@@ -27,13 +27,13 @@
 
 ## Value 
 
-Sets the initial value of the input field. This attribute is used to pre-fill the input with a default value.
+> Sets the initial value of the input field. This attribute is used to pre-fill the input with a default value.
 
 ## Placeholder 
 
-Provides a hint or example text that is displayed in the input field before the user enters any value.
+> Provides a hint or example text that is displayed in the input field before the user enters any value.
 
 ## Required  
 
-Specifies that the input field is required and must be filled in before the form can be submitted.
+> Specifies that the input field is required and must be filled in before the form can be submitted.
 
