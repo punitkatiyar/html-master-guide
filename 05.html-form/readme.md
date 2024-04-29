@@ -17,23 +17,23 @@
 
 **the < input > tag is used to create various types of form controls or input fields that allow users to enter data. The < input > tag is a self-closing tag, meaning it does not require a closing tag. Here are some commonly used attributes with the < input > tag:**
 
-### Type  
+## Type  
 
 > Specifies the type of input control to be created. Some common values for the type attribute are:
 
-###  Name  
+##  Name  
 
 > Specifies the name of the input field. The name is used to identify the input field when the form is submitted.
 
-### Value 
+## Value 
 
 Sets the initial value of the input field. This attribute is used to pre-fill the input with a default value.
 
-### Placeholder 
+## Placeholder 
 
 Provides a hint or example text that is displayed in the input field before the user enters any value.
 
-### Required  
+## Required  
 
 Specifies that the input field is required and must be filled in before the form can be submitted.
 
