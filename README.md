@@ -2,7 +2,7 @@
 
 **Hyper Text Markup Language ( extension : .html or .htm ) . it can contain the data in the form of Tag and Tag addition property can be added using Attribute.**
 
-##  🥇  HTML Structure
+###  🥇  Basic HTML5 Skeleton File
 
 ```
 <!DOCTYPE html>
@@ -19,7 +19,7 @@
 </html>
 ```
 
-## HTML Tag or Element Defination 
+### HTML Tag or Element Defination 
 
 **Elements are the building blocks of web pages. They define the structure and content of a webpage**
 
