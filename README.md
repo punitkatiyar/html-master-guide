@@ -5,7 +5,7 @@
 
 ## Key Features of HTML:
 
-✅ Markup Language – It structures content using tags (e.g., < h1 >, <p>, < img> ).
+✅ Markup Language – It structures content using tags (e.g., < h1 >, <p>, < img > ).
 
 ✅ Not a Programming Language – It doesn’t have logic like JavaScript; it just organizes content.
 
