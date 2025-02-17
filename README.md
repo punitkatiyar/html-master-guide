@@ -2,6 +2,17 @@
 
 **Hyper Text Markup Language ( extension : .html or .htm ) . it can contain the data in the form of Tag and Tag addition property can be added using Attribute.**
 
+
+## Key Features of HTML:
+
+✅ Markup Language – It structures content using tags (e.g., <h1>, <p>, <img>).
+
+✅ Not a Programming Language – It doesn’t have logic like JavaScript; it just organizes content.
+
+✅ Works with CSS & JavaScript – CSS styles the page, and JavaScript makes it interactive.
+
+✅ Platform-Independent – Works on all browsers and devices.
+
 ## HTML Tag
 
 An HTML tag is a piece of code used to define the structure and content of a webpage in HyperText Markup Language (HTML). Tags are enclosed in angle brackets (<>) and usually come in pairs:
