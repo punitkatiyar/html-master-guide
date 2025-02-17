@@ -6,9 +6,9 @@
 
 An HTML tag is a piece of code used to define the structure and content of a webpage in HyperText Markup Language (HTML). Tags are enclosed in angle brackets (<>) and usually come in pairs:
 
-- An opening tag (e.g., <p>)
+- An opening tag (e.g., < p >)
 
-- A closing tag (e.g., </p>)
+- A closing tag (e.g., < /p >)
 
 
 ###  🥇  Basic HTML5 Skeleton (structure) File
