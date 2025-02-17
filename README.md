@@ -2,6 +2,15 @@
 
 **Hyper Text Markup Language ( extension : .html or .htm ) . it can contain the data in the form of Tag and Tag addition property can be added using Attribute.**
 
+## HTML Tag
+
+An HTML tag is a piece of code used to define the structure and content of a webpage in HyperText Markup Language (HTML). Tags are enclosed in angle brackets (<>) and usually come in pairs:
+
+- An opening tag (e.g., <p>)
+
+- A closing tag (e.g., </p>)
+
+
 ###  🥇  Basic HTML5 Skeleton (structure) File
 
 ```
