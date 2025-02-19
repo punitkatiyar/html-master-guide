@@ -21,7 +21,7 @@ An HTML tag is a piece of code used to define the structure and content of a web
 
 - A closing tag (e.g., < /p >)
 
-  ## HTML Element Defination 
+## HTML Element
 
 **Elements are the building blocks of web pages. They define the structure and content of a webpage**
 
