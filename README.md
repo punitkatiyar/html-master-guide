@@ -1,11 +1,11 @@
 # HTML Master Guide 
 
-**Hyper Text Markup Language ( extension : .html or .htm ) . it can contain the data in the form of Tag and Tag addition property can be added using Attribute.**
+**HTML (HyperText Markup Language) is the standard language used to create and design webpages. It structures web content using tags and elements**
 
 
 ## Key Features of HTML:
 
-✅ Markup Language – It structures content using tags (e.g., < h1 >, < p >, < img > ).
+✅ Markup Language – It structures content using tags .
 
 ✅ Not a Programming Language – It doesn’t have logic like JavaScript; it just organizes content.
 
@@ -21,8 +21,17 @@ An HTML tag is a piece of code used to define the structure and content of a web
 
 - A closing tag (e.g., < /p >)
 
+  ## HTML Element Defination 
 
-###  🥇  Basic HTML5 Skeleton (structure) File
+**Elements are the building blocks of web pages. They define the structure and content of a webpage**
+
+- An opening tag
+
+- The content inside the tag (if applicable)
+
+- A closing tag (if required)
+
+###  🥇  HTML5 structure
 
 ```
 <!DOCTYPE html>
@@ -38,14 +47,6 @@ An HTML tag is a piece of code used to define the structure and content of a web
 </body>
 </html>
 ```
-
-### HTML Tag or Element Defination 
-
-**Elements are the building blocks of web pages. They define the structure and content of a webpage**
-
-
-
-
 
 
 <a href="https://punitkatiyar.github.io/">Home</a>
