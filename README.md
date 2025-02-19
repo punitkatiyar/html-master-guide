@@ -68,19 +68,15 @@ An HTML tag is a piece of code used to define the structure and content of a web
     <li>html project</li> 
 </ol>
 
-## HTML Sample Code
+## HTML Sample Example for user
 
 <ol>
-  <li><a href="login.html">Login form template one</a></li>
-  <li><a href="login1.html">Login form template Two</a></li>
-  <li><a href="login2.html">Login form template Three</a></li>
-  <li><a href="">web template</a></li>
-  <li><a href="login.html">template one</a></li>
-  <li><a href="login1.html">template Two</a></li>
-  <li><a href="login2.html">template Three</a></li>
-  <li><a href="">Project</a></li>
-</ol>
+  <li><a href="login.html">Login one</a></li>
+  <li><a href="login1.html">Login Two</a></li>
+  <li><a href="login2.html">Login Three</a></li>
+  </ol>
 <hr>
+
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 
 <table border="1" width="600px" bgcolor="red">
