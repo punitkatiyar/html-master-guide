@@ -31,7 +31,7 @@ An HTML tag is a piece of code used to define the structure and content of a web
 
 - A closing tag (if required)
 
-###  🥇  HTML5 structure
+## HTML5 structure or Template
 
 ```
 <!DOCTYPE html>
@@ -40,7 +40,7 @@ An HTML tag is a piece of code used to define the structure and content of a web
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>tech unit book</title>
 </head>
 <body>
     
