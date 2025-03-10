@@ -6,18 +6,12 @@
 <ol>
   <li>List Item</li>
   <li>List Item</li>
-  <li>List Item</li>
-  <li>List Item</li>
-  <li>List Item</li>
 </ol>
 ```
 ## Unorder list And Type [ disk , circle , square , none ]
 
 ```
 <ul>
-  <li>List Item</li>
-  <li>List Item</li>
-  <li>List Item</li>
   <li>List Item</li>
   <li>List Item</li>
 </ul>
