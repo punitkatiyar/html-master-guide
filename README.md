@@ -33,7 +33,7 @@ An HTML tag is a piece of code used to define the structure and content of a web
 
 ## HTML5 structure or Template
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
